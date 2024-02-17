@@ -1,0 +1,31 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\arran\\documents\\ultrarengitfixed\\ultrarenmaster1901\\github-2.0\\plugins\\plugins\\navigation3d\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\navigation3d\\module.navigation3d.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\arran\\documents\\ultrarengitfixed\\ultrarenmaster1901\\github-2.0\\intermediate\\build\\win64\\x64\\ultrareneditor\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\users\\arran\\documents\\ultrarengitfixed\\ultrarenmaster1901\\github-2.0\\plugins\\plugins\\navigation3d\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\navigation3d\\definitions.navigation3d.h",
+            "c:\\users\\arran\\documents\\ultrarengitfixed\\ultrarenmaster1901\\github-2.0\\plugins\\plugins\\navigation3d\\source\\navigation3d\\private\\navigation3d.cpp",
+            "c:\\users\\arran\\documents\\ultrarengitfixed\\ultrarenmaster1901\\github-2.0\\plugins\\plugins\\navigation3d\\source\\navigation3d\\public\\navigation3d.h",
+            "c:\\users\\arran\\documents\\ultrarengitfixed\\ultrarenmaster1901\\github-2.0\\plugins\\plugins\\navigation3d\\source\\navigation3d\\private\\navigationvolume3d.cpp",
+            "c:\\users\\arran\\documents\\ultrarengitfixed\\ultrarenmaster1901\\github-2.0\\plugins\\plugins\\navigation3d\\source\\navigation3d\\public\\navigationvolume3d.h",
+            "c:\\users\\arran\\documents\\ultrarengitfixed\\ultrarenmaster1901\\github-2.0\\plugins\\plugins\\navigation3d\\intermediate\\build\\win64\\unrealeditor\\inc\\navigation3d\\uht\\navigationvolume3d.generated.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\plugins\\runtime\\proceduralmeshcomponent\\source\\proceduralmeshcomponent\\public\\proceduralmeshcomponent.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\plugins\\runtime\\proceduralmeshcomponent\\intermediate\\build\\win64\\unrealeditor\\inc\\proceduralmeshcomponent\\uht\\proceduralmeshcomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetmathlibrary.generated.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.inl",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "c:\\users\\arran\\documents\\ultrarengitfixed\\ultrarenmaster1901\\github-2.0\\plugins\\plugins\\navigation3d\\source\\navigation3d\\private\\navnode.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.34.31933\\include\\set",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.34.31933\\include\\xtree",
+            "c:\\users\\arran\\documents\\ultrarengitfixed\\ultrarenmaster1901\\github-2.0\\plugins\\plugins\\navigation3d\\source\\navigation3d\\private\\navnode.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
