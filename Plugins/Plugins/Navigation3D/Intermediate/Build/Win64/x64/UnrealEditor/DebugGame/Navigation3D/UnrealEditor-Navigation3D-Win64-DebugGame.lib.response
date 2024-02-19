@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Navigation3D-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\arran\Documents\UltrarenGitFixed\UltrarenMaster1901\Github-2.0\Intermediate\Build\Win64\x64\UltrarenEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"C:\Users\arran\Documents\UltrarenGitFixed\UltrarenMaster1901\Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Navigation3D\Module.Navigation3D.cpp.obj"
+"C:\Users\arran\Documents\UltrarenGitFixed\UltrarenMaster1901\Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Navigation3D\Navigation3D.init.gen.cpp.obj"
+"C:\Users\arran\Documents\UltrarenGitFixed\UltrarenMaster1901\Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Navigation3D\NavigationVolume3D.gen.cpp.obj"
+"C:\Users\arran\Documents\UltrarenGitFixed\UltrarenMaster1901\Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Navigation3D\Default.rc2.res"
+/OUT:"C:\Users\arran\Documents\UltrarenGitFixed\UltrarenMaster1901\Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Navigation3D\UnrealEditor-Navigation3D-Win64-DebugGame.lib"
