@@ -33,9 +33,9 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
-"C:\Work\Github Repo\Ultraren-Github-2.0\Intermediate\Build\Win64\x64\UltrarenEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
-"C:\Work\Github Repo\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Navigation3D\Module.Navigation3D.cpp.obj"
-"C:\Work\Github Repo\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Navigation3D\Default.rc2.res"
+"C:\Users\u2066039\OneDrive - University of Huddersfield\Documents\GitHub\Ultraren-Github-2.0\Intermediate\Build\Win64\x64\UltrarenEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"C:\Users\u2066039\OneDrive - University of Huddersfield\Documents\GitHub\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Navigation3D\Module.Navigation3D.cpp.obj"
+"C:\Users\u2066039\OneDrive - University of Huddersfield\Documents\GitHub\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Navigation3D\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slate\UnrealEditor-Slate.lib"
@@ -67,7 +67,7 @@
 "setupapi.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"C:\Work\Github Repo\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Binaries\Win64\UnrealEditor-Navigation3D.dll"
-/IMPLIB:"C:\Work\Github Repo\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Navigation3D\UnrealEditor-Navigation3D.suppressed.lib"
-/PDB:"C:\Work\Github Repo\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Binaries\Win64\UnrealEditor-Navigation3D.pdb"
+/OUT:"C:\Users\u2066039\OneDrive - University of Huddersfield\Documents\GitHub\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Binaries\Win64\UnrealEditor-Navigation3D.dll"
+/IMPLIB:"C:\Users\u2066039\OneDrive - University of Huddersfield\Documents\GitHub\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Navigation3D\UnrealEditor-Navigation3D.suppressed.lib"
+/PDB:"C:\Users\u2066039\OneDrive - University of Huddersfield\Documents\GitHub\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Binaries\Win64\UnrealEditor-Navigation3D.pdb"
 /ignore:4078
