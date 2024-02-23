@@ -73,3 +73,4 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 Plugins/Plugins/Navigation3D/Intermediate/Build/Win64/x64/UnrealGame/Development/Navigation3D/Module.Navigation3D.cpp.dep.json
+Plugins/Plugins/Navigation3D/Intermediate/Build/Win64/x64/UnrealGame/Development/Navigation3D/Module.Navigation3D.cpp.dep.json
