@@ -2,11 +2,11 @@
 	"RemapUnityFiles": 
 	{
 		"Module.Navigation3D.cpp.obj": [
+			"Navigation3D.init.gen.cpp.obj",
+			"NavigationVolume3D.gen.cpp.obj",
 			"Navigation3D.cpp.obj",
 			"NavigationVolume3D.cpp.obj",
-			"NavNode.cpp.obj",
-			"Navigation3D.init.gen.cpp.obj",
-			"NavigationVolume3D.gen.cpp.obj"
+			"NavNode.cpp.obj"
 		]
 	}
 }
