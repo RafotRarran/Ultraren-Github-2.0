@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-Navigation3D.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Work\Github\Ultraren-Github-2.0\Intermediate\Build\Win64\x64\UltrarenEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
-"C:\Work\Github\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Navigation3D\Module.Navigation3D.cpp.obj"
-"C:\Work\Github\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Navigation3D\Default.rc2.res"
-/OUT:"C:\Work\Github\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Navigation3D\UnrealEditor-Navigation3D.lib"
+"C:\Work\GitHub\Ultraren-Github-2.0\Intermediate\Build\Win64\x64\UltrarenEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"C:\Work\GitHub\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Navigation3D\Module.Navigation3D.cpp.obj"
+"C:\Work\GitHub\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Navigation3D\Default.rc2.res"
+/OUT:"C:\Work\GitHub\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Navigation3D\UnrealEditor-Navigation3D.lib"
