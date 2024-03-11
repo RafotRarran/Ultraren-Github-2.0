@@ -1,0 +1,38 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\work\\github\\ultraren-github-2.0\\plugins\\nvidia\\dlss\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dlssblueprint\\module.dlssblueprint.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\work\\github\\ultraren-github-2.0\\intermediate\\build\\win64\\x64\\ultrareneditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\work\\github\\ultraren-github-2.0\\plugins\\nvidia\\dlss\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dlssblueprint\\definitions.dlssblueprint.h",
+            "c:\\work\\github\\ultraren-github-2.0\\plugins\\nvidia\\dlss\\intermediate\\build\\win64\\unrealeditor\\inc\\dlssblueprint\\uht\\dlssblueprint.init.gen.cpp",
+            "c:\\work\\github\\ultraren-github-2.0\\plugins\\nvidia\\dlss\\source\\dlssblueprint\\private\\dlsslibrary.cpp",
+            "c:\\work\\github\\ultraren-github-2.0\\plugins\\nvidia\\dlss\\source\\dlssblueprint\\public\\dlsslibrary.h",
+            "c:\\work\\github\\ultraren-github-2.0\\plugins\\nvidia\\dlss\\intermediate\\build\\win64\\unrealeditor\\inc\\dlssblueprint\\uht\\dlsslibrary.generated.h",
+            "c:\\work\\github\\ultraren-github-2.0\\plugins\\nvidia\\dlss\\source\\dlss\\public\\dlss.h",
+            "c:\\work\\github\\ultraren-github-2.0\\plugins\\nvidia\\dlss\\source\\dlss\\public\\dlsssettings.h",
+            "c:\\work\\github\\ultraren-github-2.0\\plugins\\nvidia\\dlss\\intermediate\\build\\win64\\unrealeditor\\inc\\dlss\\uht\\dlsssettings.generated.h",
+            "c:\\work\\github\\ultraren-github-2.0\\plugins\\nvidia\\dlss\\source\\dlss\\public\\dlssupscaler.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\rendercore\\public\\customresourcepool.h",
+            "c:\\work\\github\\ultraren-github-2.0\\plugins\\nvidia\\dlss\\source\\ngxrhi\\public\\ngxrhi.h",
+            "c:\\work\\github\\ultraren-github-2.0\\plugins\\nvidia\\dlss\\source\\thirdparty\\ngx\\include\\nvsdk_ngx_params.h",
+            "c:\\work\\github\\ultraren-github-2.0\\plugins\\nvidia\\dlss\\source\\thirdparty\\ngx\\include\\nvsdk_ngx_defs.h",
+            "c:\\work\\github\\ultraren-github-2.0\\plugins\\nvidia\\dlss\\source\\thirdparty\\ngx\\include\\nvsdk_ngx_helpers_dlssd.h",
+            "c:\\work\\github\\ultraren-github-2.0\\plugins\\nvidia\\dlss\\source\\thirdparty\\ngx\\include\\nvsdk_ngx_helpers.h",
+            "c:\\work\\github\\ultraren-github-2.0\\plugins\\nvidia\\dlss\\source\\thirdparty\\ngx\\include\\nvsdk_ngx.h",
+            "c:\\work\\github\\ultraren-github-2.0\\plugins\\nvidia\\dlss\\source\\thirdparty\\ngx\\include\\nvsdk_ngx_defs_dlssd.h",
+            "c:\\work\\github\\ultraren-github-2.0\\plugins\\nvidia\\dlss\\source\\thirdparty\\ngx\\include\\nvsdk_ngx_params_dlssd.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\projects\\public\\interfaces\\ipluginmanager.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\projects\\public\\plugindescriptor.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\projects\\public\\custombuildsteps.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\projects\\public\\localizationdescriptor.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\projects\\public\\moduledescriptor.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\projects\\public\\pluginreferencedescriptor.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\projects\\public\\versescope.h",
+            "c:\\work\\github\\ultraren-github-2.0\\plugins\\nvidia\\dlss\\intermediate\\build\\win64\\unrealeditor\\inc\\dlssblueprint\\uht\\dlsslibrary.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

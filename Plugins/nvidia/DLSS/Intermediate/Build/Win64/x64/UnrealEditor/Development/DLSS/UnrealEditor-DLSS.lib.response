@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DLSS.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Work\Github\Ultraren-Github-2.0\Intermediate\Build\Win64\x64\UltrarenEditor\Development\Engine\SharedPCH.Engine.RTTI.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"C:\Work\Github\Ultraren-Github-2.0\Plugins\nvidia\DLSS\Intermediate\Build\Win64\x64\UnrealEditor\Development\DLSS\Module.DLSS.cpp.obj"
+"C:\Work\Github\Ultraren-Github-2.0\Plugins\nvidia\DLSS\Intermediate\Build\Win64\x64\UnrealEditor\Development\DLSS\Default.rc2.res"
+/OUT:"C:\Work\Github\Ultraren-Github-2.0\Plugins\nvidia\DLSS\Intermediate\Build\Win64\x64\UnrealEditor\Development\DLSS\UnrealEditor-DLSS.lib"
