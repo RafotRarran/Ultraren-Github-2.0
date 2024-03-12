@@ -17,7 +17,7 @@ void EmptyLinkFunctionForGeneratedCodeNavigation3D_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x7E0E475A,
+				0x51A7CF40,
 				0x392529AC,
 				METADATA_PARAMS(nullptr, 0)
 			};
@@ -25,5 +25,5 @@ void EmptyLinkFunctionForGeneratedCodeNavigation3D_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_Navigation3D.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_Navigation3D(Z_Construct_UPackage__Script_Navigation3D, TEXT("/Script/Navigation3D"), Z_Registration_Info_UPackage__Script_Navigation3D, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x7E0E475A, 0x392529AC));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_Navigation3D(Z_Construct_UPackage__Script_Navigation3D, TEXT("/Script/Navigation3D"), Z_Registration_Info_UPackage__Script_Navigation3D, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x51A7CF40, 0x392529AC));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
