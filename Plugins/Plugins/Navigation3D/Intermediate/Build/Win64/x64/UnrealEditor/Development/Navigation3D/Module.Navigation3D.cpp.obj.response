@@ -1,6 +1,6 @@
-C:\Work\Github\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Navigation3D\Module.Navigation3D.cpp
+"C:\Work\Github Repo\Ultraren-Github-2.0\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Navigation3D\Module.Navigation3D.cpp"
 /I .
-/I C:\Work\Github\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Source\Navigation3D\Private
+/I "C:\Work\Github Repo\Ultraren-Github-2.0\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Source\Navigation3D\Private"
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT
 /I Runtime\CoreUObject\Public
 /I Runtime
@@ -276,9 +276,9 @@ C:\Work\Github\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Bui
 /I ..\Plugins\Runtime\ProceduralMeshComponent\Intermediate\Build\Win64\UnrealEditor\Inc\ProceduralMeshComponent\UHT
 /I ..\Plugins\Runtime\ProceduralMeshComponent\Source\ProceduralMeshComponent\Public
 /I ..\Plugins\Runtime\ProceduralMeshComponent\Source
-/I C:\Work\Github\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\UnrealEditor\Inc\Navigation3D\UHT
-/I C:\Work\Github\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Source
-/I C:\Work\Github\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Source\Navigation3D\Public
+/I "C:\Work\Github Repo\Ultraren-Github-2.0\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\UnrealEditor\Inc\Navigation3D\UHT"
+/I "C:\Work\Github Repo\Ultraren-Github-2.0\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Source"
+/I "C:\Work\Github Repo\Ultraren-Github-2.0\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Source\Navigation3D\Public"
 /external:W0
 /external:I ThirdParty\mimalloc\include
 /external:I ThirdParty\LibTiff\Source\Win64
@@ -288,12 +288,12 @@ C:\Work\Github\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Bui
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"C:\Work\Github\Ultraren-Github-2.0\Intermediate\Build\Win64\x64\UltrarenEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
-/FI"C:\Work\Github\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Navigation3D\Definitions.Navigation3D.h"
-/Yu"C:\Work\Github\Ultraren-Github-2.0\Intermediate\Build\Win64\x64\UltrarenEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
-/Fp"C:\Work\Github\Ultraren-Github-2.0\Intermediate\Build\Win64\x64\UltrarenEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.pch"
-/Fo"C:\Work\Github\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Navigation3D\Module.Navigation3D.cpp.obj"
-/sourceDependencies C:\Work\Github\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Navigation3D\Module.Navigation3D.cpp.dep.json
+/FI"C:\Work\Github Repo\Ultraren-Github-2.0\Ultraren-Github-2.0\Intermediate\Build\Win64\x64\UltrarenEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
+/FI"C:\Work\Github Repo\Ultraren-Github-2.0\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Navigation3D\Definitions.Navigation3D.h"
+/Yu"C:\Work\Github Repo\Ultraren-Github-2.0\Ultraren-Github-2.0\Intermediate\Build\Win64\x64\UltrarenEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
+/Fp"C:\Work\Github Repo\Ultraren-Github-2.0\Ultraren-Github-2.0\Intermediate\Build\Win64\x64\UltrarenEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.pch"
+/Fo"C:\Work\Github Repo\Ultraren-Github-2.0\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Navigation3D\Module.Navigation3D.cpp.obj"
+/sourceDependencies "C:\Work\Github Repo\Ultraren-Github-2.0\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Navigation3D\Module.Navigation3D.cpp.dep.json"
 /Zc:inline
 /nologo
 /Oi
