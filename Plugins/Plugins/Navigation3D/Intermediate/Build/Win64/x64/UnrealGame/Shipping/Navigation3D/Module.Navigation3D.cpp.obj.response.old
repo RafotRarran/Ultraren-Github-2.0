@@ -1,6 +1,6 @@
-"C:\Work\Github Repo\Ultraren-Github-2.0\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\x64\UnrealGame\Shipping\Navigation3D\Module.Navigation3D.cpp"
+C:\Users\arran\Documents\UltrarenGitFixed\UltrarenMaster1901\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\x64\UnrealGame\Shipping\Navigation3D\Module.Navigation3D.cpp
 /I .
-/I "C:\Work\Github Repo\Ultraren-Github-2.0\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Source\Navigation3D\Private"
+/I C:\Users\arran\Documents\UltrarenGitFixed\UltrarenMaster1901\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Source\Navigation3D\Private
 /I ..\Intermediate\Build\Win64\UnrealGame\Inc\CoreUObject\UHT
 /I Runtime\CoreUObject\Public
 /I Runtime
@@ -131,24 +131,24 @@
 /I Runtime\Experimental\Dataflow
 /I ..\Intermediate\Build\Win64\UnrealGame\Inc\DataflowEngine\UHT
 /I Runtime\Experimental\Dataflow\Engine\Public
-/I "C:\Work\Github Repo\Ultraren-Github-2.0\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\UnrealGame\Inc\Navigation3D\UHT"
-/I "C:\Work\Github Repo\Ultraren-Github-2.0\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Source"
-/I "C:\Work\Github Repo\Ultraren-Github-2.0\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Source\Navigation3D\Public"
+/I C:\Users\arran\Documents\UltrarenGitFixed\UltrarenMaster1901\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\UnrealGame\Inc\Navigation3D\UHT
+/I C:\Users\arran\Documents\UltrarenGitFixed\UltrarenMaster1901\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Source
+/I C:\Users\arran\Documents\UltrarenGitFixed\UltrarenMaster1901\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Source\Navigation3D\Public
 /external:W0
 /external:I ThirdParty\mimalloc\include
 /external:I ThirdParty\LibTiff\Source\Win64
 /external:I ThirdParty\LibTiff\Source
-/external:I "C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933\INCLUDE"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"C:\Work\Github Repo\Ultraren-Github-2.0\Ultraren-Github-2.0\Intermediate\Build\Win64\x64\Ultraren\Shipping\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
-/FI"C:\Work\Github Repo\Ultraren-Github-2.0\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\x64\UnrealGame\Shipping\Navigation3D\Definitions.Navigation3D.h"
-/Yu"C:\Work\Github Repo\Ultraren-Github-2.0\Ultraren-Github-2.0\Intermediate\Build\Win64\x64\Ultraren\Shipping\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
-/Fp"C:\Work\Github Repo\Ultraren-Github-2.0\Ultraren-Github-2.0\Intermediate\Build\Win64\x64\Ultraren\Shipping\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.pch"
-/Fo"C:\Work\Github Repo\Ultraren-Github-2.0\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\x64\UnrealGame\Shipping\Navigation3D\Module.Navigation3D.cpp.obj"
-/sourceDependencies "C:\Work\Github Repo\Ultraren-Github-2.0\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\x64\UnrealGame\Shipping\Navigation3D\Module.Navigation3D.cpp.dep.json"
+/external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\INCLUDE"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
+/FI"C:\Users\arran\Documents\UltrarenGitFixed\UltrarenMaster1901\Ultraren-Github-2.0\Intermediate\Build\Win64\x64\Ultraren\Shipping\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
+/FI"C:\Users\arran\Documents\UltrarenGitFixed\UltrarenMaster1901\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\x64\UnrealGame\Shipping\Navigation3D\Definitions.Navigation3D.h"
+/Yu"C:\Users\arran\Documents\UltrarenGitFixed\UltrarenMaster1901\Ultraren-Github-2.0\Intermediate\Build\Win64\x64\Ultraren\Shipping\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
+/Fp"C:\Users\arran\Documents\UltrarenGitFixed\UltrarenMaster1901\Ultraren-Github-2.0\Intermediate\Build\Win64\x64\Ultraren\Shipping\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.pch"
+/Fo"C:\Users\arran\Documents\UltrarenGitFixed\UltrarenMaster1901\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\x64\UnrealGame\Shipping\Navigation3D\Module.Navigation3D.cpp.obj"
+/sourceDependencies C:\Users\arran\Documents\UltrarenGitFixed\UltrarenMaster1901\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\x64\UnrealGame\Shipping\Navigation3D\Module.Navigation3D.cpp.dep.json
 /Zc:inline
 /nologo
 /Oi
