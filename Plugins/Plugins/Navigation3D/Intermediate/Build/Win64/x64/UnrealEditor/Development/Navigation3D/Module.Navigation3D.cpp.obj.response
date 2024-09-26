@@ -1,6 +1,6 @@
-"D:\Archives\Game Dev\Unreal\Ultraren\GitHub\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Navigation3D\Module.Navigation3D.cpp"
+C:\Users\Ethan\Desktop\Ultraren\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Navigation3D\Module.Navigation3D.cpp
 /I .
-/I "D:\Archives\Game Dev\Unreal\Ultraren\GitHub\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Source\Navigation3D\Private"
+/I C:\Users\Ethan\Desktop\Ultraren\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Source\Navigation3D\Private
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT
 /I Runtime\CoreUObject\Public
 /I Runtime
@@ -276,24 +276,24 @@
 /I ..\Plugins\Runtime\ProceduralMeshComponent\Intermediate\Build\Win64\UnrealEditor\Inc\ProceduralMeshComponent\UHT
 /I ..\Plugins\Runtime\ProceduralMeshComponent\Source\ProceduralMeshComponent\Public
 /I ..\Plugins\Runtime\ProceduralMeshComponent\Source
-/I "D:\Archives\Game Dev\Unreal\Ultraren\GitHub\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\UnrealEditor\Inc\Navigation3D\UHT"
-/I "D:\Archives\Game Dev\Unreal\Ultraren\GitHub\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Source"
-/I "D:\Archives\Game Dev\Unreal\Ultraren\GitHub\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Source\Navigation3D\Public"
+/I C:\Users\Ethan\Desktop\Ultraren\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\UnrealEditor\Inc\Navigation3D\UHT
+/I C:\Users\Ethan\Desktop\Ultraren\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Source
+/I C:\Users\Ethan\Desktop\Ultraren\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Source\Navigation3D\Public
 /external:W0
 /external:I ThirdParty\mimalloc\include
 /external:I ThirdParty\LibTiff\Source\Win64
 /external:I ThirdParty\LibTiff\Source
-/external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\INCLUDE"
+/external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\INCLUDE"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"D:\Archives\Game Dev\Unreal\Ultraren\GitHub\Ultraren-Github-2.0\Intermediate\Build\Win64\x64\UltrarenEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
-/FI"D:\Archives\Game Dev\Unreal\Ultraren\GitHub\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Navigation3D\Definitions.Navigation3D.h"
-/Yu"D:\Archives\Game Dev\Unreal\Ultraren\GitHub\Ultraren-Github-2.0\Intermediate\Build\Win64\x64\UltrarenEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
-/Fp"D:\Archives\Game Dev\Unreal\Ultraren\GitHub\Ultraren-Github-2.0\Intermediate\Build\Win64\x64\UltrarenEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.pch"
-/Fo"D:\Archives\Game Dev\Unreal\Ultraren\GitHub\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Navigation3D\Module.Navigation3D.cpp.obj"
-/sourceDependencies "D:\Archives\Game Dev\Unreal\Ultraren\GitHub\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Navigation3D\Module.Navigation3D.cpp.dep.json"
+/FI"C:\Users\Ethan\Desktop\Ultraren\Ultraren-Github-2.0\Intermediate\Build\Win64\x64\UltrarenEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
+/FI"C:\Users\Ethan\Desktop\Ultraren\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Navigation3D\Definitions.Navigation3D.h"
+/Yu"C:\Users\Ethan\Desktop\Ultraren\Ultraren-Github-2.0\Intermediate\Build\Win64\x64\UltrarenEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
+/Fp"C:\Users\Ethan\Desktop\Ultraren\Ultraren-Github-2.0\Intermediate\Build\Win64\x64\UltrarenEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.pch"
+/Fo"C:\Users\Ethan\Desktop\Ultraren\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Navigation3D\Module.Navigation3D.cpp.obj"
+/sourceDependencies C:\Users\Ethan\Desktop\Ultraren\Ultraren-Github-2.0\Plugins\Plugins\Navigation3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Navigation3D\Module.Navigation3D.cpp.dep.json
 /Zc:inline
 /nologo
 /Oi
